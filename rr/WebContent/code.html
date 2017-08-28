@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<img alt="验证码" src="/rr/code" title="看不清楚，换一张" onclick="changeImg(this)">
+</body>
+<script type="text/javascript">
+function changeImg(obj) {
+	obj.src="/rr/code?i="+Math.random();
+}
+</script>
+
+</html>

@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Aug 27 20:11:29 CST 2017
+org.eclipse.jst.jee.server\:rr=D\:\\Tomcat\\apache-tomcat-7.0.77\\webapps\\rr
+org.eclipse.jst.jee.server\:webDemo=D\:\\Tomcat\\apache-tomcat-7.0.77\\webapps\\webDemo
